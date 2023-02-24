@@ -1,0 +1,7 @@
+Create a web application using HTML, Javascript for a billing system.
+
+Input values will be item name, quantity, price of single item. There will be two buttons add and bill.
+After clicking the add button the items should be stored in local storage of the browser and should be displayed in a tabular format.
+After clicking the bill button total price should be displayed.
+
+Note: If the above tasks are achieved then you can beautify the web application using CSS which will be awarded extra points
