@@ -1,0 +1,8 @@
+Create a web application using HTML, Javascript for a forum discussion panel.
+The user should be able to add posts regarding a query. Input values will be a question and topic of question. There will be two buttons
+add and get details.
+
+After clicking the add button the posts should be stored in the local storage of the browser and should be displayed in a tabular format.
+After clicking the get details button the user should be shown how much post did he create regarding a particular topic.
+
+Note: If the above tasks are achieved then you can beautify the web application using CSS which will be awarded extra points
