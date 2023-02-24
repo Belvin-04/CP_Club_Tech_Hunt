@@ -1,0 +1,6 @@
+Create a web application using HTML, Javascript for components management.
+The user will add the record of issued component like it's name and number of quantities to be issued. There will be 2 buttons add and details.
+After clicking the add button the details should be stored in local storage of the browser, and the data should be displayed in the tabular format.
+After clicking the details button details should be dislayed like which component is issued in how much quantity.
+
+Note: If the above tasks are achieved then you can beautify the web application using CSS which will be awarded extra points
