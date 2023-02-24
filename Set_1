@@ -1,0 +1,5 @@
+Create a web application using HTML, Javascript where two players can play tic tac toe game (minda chokdi). 
+A record should be maintained in the local storage of the browser where you will save the log of each game.
+There will be 2 web pages in the first web page the player can play the game and on the second page result should be displayed like which player won how many times.
+
+Note: If the above tasks are achieved then you can beautify the web application using CSS which will be awarded extra points
