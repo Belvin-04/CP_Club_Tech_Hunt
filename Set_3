@@ -1,0 +1,7 @@
+Create a web application using HTML, Javascript for todo operations.
+Take task and time required to complete the task as input values from the user.
+There will be 2 buttons, add and get time.
+After clicking the add button the values should be stored in the local storage of the browser and the data should be shown in tabular format.
+After clicking the get time button the total time required to complete all the tasks should be shown to the user.
+
+Note: If the above tasks are achieved then you can beautify the web application using CSS which will be awarded extra points
